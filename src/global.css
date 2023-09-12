@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: wheat;
+    margin: 100px;
+}
+
+input{
+    background-color: black;
+    border: 1px solid wheat;
+    padding: 5px;
+    color: wheat;
+}
